@@ -1,0 +1,24 @@
+{
+  "client_name": "Phoenix American Hospitality",
+  "portal_url": "https://portal.tribexa.com/phoenix-american",
+  "deals": [
+    {
+      "deal_name": "PAH Fund I",
+      "tax_document_type": "1099-DIV",
+      "distribution_schedule": "Monthly on the 15th",
+      "reinvestment_policy": "Reinvestment NOT available. All distributions are paid as cash.",
+      "redemption_rules": "Redemptions are handled on a case-by-case basis. Contact Katie Ginther directly.",
+      "sponsor_contact": {
+        "name": "Katie Ginther",
+        "email": "katie.ginther@phoenixamericanhospitality.com",
+        "role": "Investor Relations"
+      }
+    }
+  ],
+  "general_notes": [
+    "1099-DIV tax forms are mailed and available in the portal by January 31.",
+    "Distributions are processed on the 15th of each month; allow 3–5 business days to appear in your bank account.",
+    "No DRIP (dividend reinvestment plan) is available for this fund.",
+    "For all redemption inquiries, escalate to Katie Ginther — do not commit to timelines."
+  ]
+}

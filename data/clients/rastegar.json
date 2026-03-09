@@ -1,0 +1,24 @@
+{
+  "client_name": "Rastegar",
+  "portal_url": "https://portal.tribexa.com/rastegar",
+  "deals": [
+    {
+      "deal_name": "Rastegar Opportunity Fund",
+      "tax_document_type": "K-1",
+      "distribution_schedule": "Quarterly",
+      "reinvestment_policy": "Investors may choose cash distributions OR reinvestment (DRIP). Election is made at the time of subscription and can be changed with 30-day written notice.",
+      "redemption_rules": "Redemptions are processed quarterly with 60-day notice. Contact Diego Traversari for all redemption requests.",
+      "sponsor_contact": {
+        "name": "Diego Traversari",
+        "email": "dtraversari@rastegar.com",
+        "role": "Investor Relations"
+      }
+    }
+  ],
+  "general_notes": [
+    "K-1 tax forms are typically available by March 15 each year via the investor portal.",
+    "Quarterly updates and distribution notices are sent via email and posted to the portal.",
+    "Investors can toggle reinvestment preference in their portal profile under 'Distribution Settings'.",
+    "For redemption requests, escalate to Diego Traversari. Minimum redemption: $25,000."
+  ]
+}
