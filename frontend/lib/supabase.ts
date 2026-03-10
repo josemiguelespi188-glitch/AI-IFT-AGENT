@@ -50,10 +50,17 @@ export interface Escalation {
 
 export interface Client {
   id: string;
-  client_name: string;
+  name: string;                        // actual DB column
+  short_code: string | null;
+  email_domains: string[] | null;
+  sponsor_email: string | null;
   portal_url: string | null;
   sponsor_contact_name: string | null;
   sponsor_contact_email: string | null;
+  tax_document_type: string | null;
+  distribution_schedule: string | null;
+  reinvestment_policy: string | null;
+  redemption_rules: string | null;
   notes: string | null;
   created_at: string;
 }
